@@ -1,0 +1,75 @@
+body {
+  background-color: #f2f2f2;
+}
+.navbar {
+  background: #082B59
+    ;
+  border-bottom: 8px solid #F2F2F2;
+}
+hr {
+  hight: 5px;
+  border-width: 0;
+  background-color:#000000;
+  margin: 1.5rem;
+}
+h5 {
+  text-align: center;
+}
+.img-fluid {
+  max-width: 100%;
+  border-radius: 10px;
+}
+.btn {
+  background-color: #F2F2F2;
+  color: #131D26;
+  border: 2.5px solid #131D26;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 3px 10px 0 rgba(0,0,0,0.19);
+}
+.btn:hover {
+  background-color: #131D26;
+  color: #ffffff;
+}
+/*.section1 {
+  display: flex;
+  
+} */
+.newbutton {
+  border: 2.5px solid #131D26;
+  border-radius: 10px;
+  padding: 0.75rem;
+}
+.newbtn a{
+  color: #59331D;
+}
+
+.newbtn:hover {
+  background-color: #131D26;
+  color: #ffffff;
+}
+.newbtn:hover a {
+  background-color: #131D26;
+  color: #ffffff;
+}
+
+.bckbtn {
+  text-align: center;
+}
+.backbutton a {
+  color: #59331D;
+}
+footer {
+  background-color: #082B59;
+  color: #ffffff;
+  text-align: center;
+  border-top: 10px solid #F2F2F2;
+  padding: 0.5rem;
+  margin-top: 2rem;
+}
+footer a {
+  color: #ffffff;
+  padding: 0.5rem;
+}
+.footerline {
+  background-color:#ffffff;
+  hieght: 5px;
+}
